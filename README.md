@@ -1,1 +1,2 @@
-# AdminPage
+# 基础的后台管理界面  
+* 基于AdminLTE进行二次开发  
